@@ -1,5 +1,5 @@
 # ☄️Animated Curved NavigationBar📋 Using Flutter🐦
-## preview
+## Preview
 ![1](https://user-images.githubusercontent.com/91388754/146733634-757a22bc-2754-4e73-90d5-f27336e278db.gif)
 
 # ⚠️ Essential Packages 
