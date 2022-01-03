@@ -5,6 +5,9 @@
 # ⚠️ Essential Packages 
 * curved_navigation_bar: ^1.0.1
 
+# Yotube Video:
+https://www.youtube.com/watch?v=LFaXVcyZ2EA&t=18s
+
 ## Links
 * [My Socials](https://znap.link/CodeWithFlexz)
 * [Youtube channel](https://www.youtube.com/channel/UCLVrYXt3SL9rT-IcDmgU9Wg)
